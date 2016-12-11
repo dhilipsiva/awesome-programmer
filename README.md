@@ -1,6 +1,6 @@
 # awesome-programmer
 
-A collection of resources to become a self-taught awesome programmer.
+A collection of resources to lean from and become a self-taught awesome programmer.
 
 Learn, Apply, Practice, Practice & Practice!
 
