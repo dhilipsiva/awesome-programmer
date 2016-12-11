@@ -27,18 +27,33 @@ A list of books to read
 - [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)
 - [SICP - Structure and Interpretation of Computer Programs](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) - [PDF Link](https://mitpress.mit.edu/sites/default/files/6515.pdf)
 - [How to be a Programmer: Community Version](https://braydie.gitbooks.io/how-to-be-a-programmer/content/en/)
--
+- [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
+- [Code Complete](https://en.wikipedia.org/wiki/Code_Complete)
+
+### Meta Book lists
+
+- [What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)
+- [10 Books Every Programmer Should Read](http://www.java67.com/2015/03/10-books-every-programmer-and-software-engineer-read.html)
+- [The 9 Best Programming Books to Read Right Now if You Want to Distinguish Yourself](http://www.codingdojo.com/blog/9-best-programming-books-read-right-now-want-distinguish/)
+- [12 Most Influential Books Every Software Engineer Needs to Read](https://jasonroell.com/2015/03/16/12-most-infuential-books-every-software-engineer-needs-to-read/)
+- [10 Books Every Programmer Should Read](http://www.codepancake.com/10-books-every-programmer-should-read/)
+- [top five books every computer programmer should study at least once](https://www.quora.com/What-are-the-top-five-books-every-computer-programmer-should-study-at-least-once)
+- [Top 10 Career-Changing Programming Books](http://www.nomachetejuggling.com/2014/02/05/top-10-career-changing-programming-books/)
+
 
 ## GitHub Repos
 
 - [Path to a free self-taught education in Computer Science!](https://github.com/open-source-society/computer-science)
 - [A complete daily plan for studying to become a Google software engineer.](https://github.com/jwasham/google-interview-university)
-- [Awesome = Programming Languages](https://github.com/sindresorhus/awesome#programming-languages)
+- [Awesome Programming Languages](https://github.com/sindresorhus/awesome#programming-languages)
 - [Cracking the Coding Interview](https://github.com/careercup/ctci)
 - [A guide on how to be a Programmer](https://github.com/braydie/HowToBeAProgrammer)
 - [Curated list of falsehoods programmers believe in](https://github.com/kdeldycke/awesome-falsehood)
 - [A Study Path for Game Programmer](https://github.com/miloyip/game-programmer)
-
+- [Algorithm Visualizer](https://github.com/parkjs814/AlgorithmVisualizer)
+- [Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript](https://github.com/nzakas/computer-science-in-javascript)
+- [Itsy Bitsy Data Structures](https://github.com/thejameskyle/itsy-bitsy-data-structures)
+- [Book of Elementary Algorithms and Data structures](https://github.com/liuxinyu95/AlgoXY)
 
 
 ## Talks and Presentations
