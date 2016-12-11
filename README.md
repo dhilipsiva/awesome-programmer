@@ -68,6 +68,11 @@ A list of free-to-view slides / presentations
 A list of free-to-listen podcasts
 
 
+### Meta Podcasts List
+
+- [Awesome Geek Podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
+
+
 ## Videos
 
 A list of free-to-watch videos
@@ -103,7 +108,7 @@ A list of blogs to subscribe to
 
 A list of programmers to follow
 
-### Meta Lists
+### Meta Programmers Lists
 
 - [A list of history's greatest](https://github.com/rekihattori/awesome-programmers)
 
