@@ -1,6 +1,6 @@
 # awesome-programmer
 
-A roadmap to becoming a self-taught awesome programmer.
+A collection of resources to become a self-taught awesome programmer.
 
 Learn, Apply, Practice, Practice & Practice!
 
