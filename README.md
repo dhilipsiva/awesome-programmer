@@ -67,6 +67,27 @@ A list of free-to-view slides / presentations
 
 A list of free-to-listen podcasts
 
+- [The Change Log](https://thechangelog.com/podcast/)
+- [Herding Code](http://herdingcode.com/)
+- [This Developer's Life](http://thisdeveloperslife.com/)
+- [FLOSS Weekly](https://twit.tv/shows/floss-weekly)
+- [The Hanselminutes Podcast](http://hanselminutes.com/)
+- [Software Engineering Radio](http://www.se-radio.net/)
+- [Coding Blocks](http://www.codingblocks.net/)
+- [Software Engineering Daily](https://softwareengineeringdaily.com/)
+- [Programming Throwdown](http://www.programmingthrowdown.com/)
+- [Arrested DevOps](https://www.arresteddevops.com/)
+- [Full Stack Radio](http://www.fullstackradio.com/)
+- [Code Newbie](http://www.codenewbie.org/podcast)
+- [LTCWM Podacst](http://learntocodewith.me/podcast/)
+- [CPP Cast](http://cppcast.com/)
+- [,Net Rocks](https://www.dotnetrocks.com/)
+- [Talk Python To Me](https://talkpython.fm/)
+- [DevChat TV](https://devchat.tv/)
+- [App Masters](http://www.appmasters.co/podcast-home/)
+- [The Bikeshed](http://bikeshed.fm/)
+- [The Debug Log](http://thedebuglog.com/)
+
 
 ### Meta Podcasts List
 
