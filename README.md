@@ -30,6 +30,7 @@ A list of books to read
 - [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
 - [Code Complete](https://en.wikipedia.org/wiki/Code_Complete)
 
+
 ### Meta Book lists
 
 - [What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)
@@ -138,5 +139,6 @@ A list of programmers to follow
 
 Some wacky things.
 
+- [Open Data Structures](http://opendatastructures.org/)
 - [Cocktails for programmers.](https://github.com/the-teacher/cocktails_for_programmers) - Actual cocktails that you can drink
 - [Makes you a Rockstar Programmer in 2 minutes](https://github.com/avinassh/rockstar) - Just for fun. Fakes programming experience on GitHub Contributions
