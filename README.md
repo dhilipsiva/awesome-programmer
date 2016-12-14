@@ -143,3 +143,4 @@ Some wacky things.
 - [Open Data Structures](http://opendatastructures.org/)
 - [Cocktails for programmers.](https://github.com/the-teacher/cocktails_for_programmers) - Actual cocktails that you can drink
 - [Makes you a Rockstar Programmer in 2 minutes](https://github.com/avinassh/rockstar) - Just for fun. Fakes programming experience on GitHub Contributions
+- [Google Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html) - Guide provides tips and resources to help you develop your technical skills (academically and non-academically) through self-paced, hands-on learning.
