@@ -1,4 +1,6 @@
 # awesome-programmer
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdhilipsiva%2Fawesome-programmer.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdhilipsiva%2Fawesome-programmer?ref=badge_shield)
+
 
 A collection of resources to learn from and become a self-taught awesome programmer.
 
@@ -144,3 +146,6 @@ Some wacky things.
 - [Cocktails for programmers.](https://github.com/the-teacher/cocktails_for_programmers) - Actual cocktails that you can drink
 - [Makes you a Rockstar Programmer in 2 minutes](https://github.com/avinassh/rockstar) - Just for fun. Fakes programming experience on GitHub Contributions
 - [Google Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html) - Guide provides tips and resources to help you develop your technical skills (academically and non-academically) through self-paced, hands-on learning.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdhilipsiva%2Fawesome-programmer.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdhilipsiva%2Fawesome-programmer?ref=badge_large)
