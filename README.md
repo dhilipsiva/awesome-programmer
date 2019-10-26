@@ -75,7 +75,8 @@ A list of free-to-watch videos
 
 ## Courses
 
-A list of free-to-complete courses
+-[Algorithms: Design and Analysis I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
+-[Algorithms: Design and Analysis II](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about)
 
 
 ## Challenges
