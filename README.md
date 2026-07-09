@@ -42,6 +42,10 @@ A list of books to read
 - [10 Books Every Programmer Should Read](http://www.codepancake.com/10-books-every-programmer-should-read/)
 - [top five books every computer programmer should study at least once](https://www.quora.com/What-are-the-top-five-books-every-computer-programmer-should-study-at-least-once)
 - [Top 10 Career-Changing Programming Books](http://www.nomachetejuggling.com/2014/02/05/top-10-career-changing-programming-books/)
+- [10 Best Data Structures and Algorithms Books 2022](https://www.interviewbit.com/blog/data-structures-and-algorithms-books/)
+- [Best Data Science Books for Beginners and Advanced Data Scientists](https://www.interviewbit.com/blog/data-science-books/)
+- [10 Best Software Engineering Books 2022](https://www.interviewbit.com/blog/software-engineering-books/)
+- [10 Best Artificial Intelligence Books 2022](https://www.interviewbit.com/blog/artificial-intelligence-books/)
 
 
 ## GitHub Repos
@@ -147,6 +151,7 @@ Some wacky things.
 - [Cocktails for programmers.](https://github.com/the-teacher/cocktails_for_programmers) - Actual cocktails that you can drink
 - [Makes you a Rockstar Programmer in 2 minutes](https://github.com/avinassh/rockstar) - Just for fun. Fakes programming experience on GitHub Contributions
 - [Google Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html) - Guide provides tips and resources to help you develop your technical skills (academically and non-academically) through self-paced, hands-on learning.
+- 
 
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdhilipsiva%2Fawesome-programmer.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdhilipsiva%2Fawesome-programmer?ref=badge_large)
